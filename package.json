@@ -1,0 +1,18 @@
+{
+  "name": "trucky-announcer-bot",
+  "version": "1.0.0",
+  "description": "A bot that announces messages in an announcement channel and manages a queue if rate limited.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Trucky",
+  "contributors": [
+    "dowmeister"
+  ],
+  "license": "MIT"
+}
